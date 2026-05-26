@@ -1,7 +1,7 @@
 # Bonjour, je suis Aya Chimi ! 👋
 
 ## 🚀 À propos de moi
-Je suis une **Ingénieure en Informatique** et **Data / Analytics Engineer**, actuellement en Master 2 (M2) Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord (USPN), et diplômée de l'ENSIAS en Ingénierie Digitale pour la Finance.
+Je suis une **Ingénieure en Informatique** et **Data / Analytics Engineer**, actuellement en Master 2 (M2) Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord, et diplômée de l'ENSIAS en Ingénierie Digitale pour la Finance.
 
 Passionnée par l'écosystème de la Data, le Cloud et le Machine Learning, j'ai une solide expertise dans la conception de pipelines de données robustes, l'automatisation de flux ETL et la valorisation des données pour l'aide à la décision. Je suis certifiée **Microsoft Power BI Data Analyst** et j'effectue actuellement mon stage de fin d'études chez **AXA** en tant qu'Analytics Engineer.
 
