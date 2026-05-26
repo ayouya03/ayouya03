@@ -16,27 +16,33 @@
         @media (max-width: 767px) {
             body { padding: 15px; }
         }
-        /* Style spécifique pour votre photo de profil */
+        /* Style amélioré pour la photo de profil */
         .profile-pic {
-            max-width: 200px; /* Taille maximale de la photo */
-            border-radius: 10px; /* Coins arrondis pour un rendu plus esthétique */
-            display: block; /* Centrer l'image */
-            margin-left: auto;
-            margin-right: auto;
-            margin-bottom: 20px; /* Espace avec le titre */
+            width: 150px; /* Taille plus petite de la photo */
+            height: auto; /* Conserver les proportions */
+            border-radius: 10px; /* Coins arrondis esthétiques */
+            float: right; /* Faire flotter l'image à droite */
+            margin-left: 30px; /* Espace avec le texte à gauche */
+            margin-bottom: 20px; /* Espace avec le contenu en-dessous */
+        }
+        /* Style pour s'assurer que le contenu suivant se place bien */
+        .header-content {
+            overflow: auto; /* Pour contenir l'image flottante */
         }
     </style>
 </head>
 <body class="markdown-body">
 
-    <img src="pdp.jpg" alt="Photo de profil d'Aya Chimi" class="profile-pic">
+    <div class="header-content">
+        <img src="pdp.jpg" alt="Photo de profil d'Aya Chimi" class="profile-pic">
 
-    <h1>Bonjour, je suis Aya Chimi ! 👋</h1>
+        <h1>Bonjour, je suis Aya Chimi ! 👋</h1>
 
-    <h2>🚀 À propos de moi</h2>
-    <p>Je suis une <strong>Ingénieure en Informatique</strong> et <strong>Data / Analytics Engineer</strong>, actuellement en Master 2 (M2) Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord, et diplômée de l'ENSIAS en Ingénierie Digitale pour la Finance.</p>
-    <p>Passionnée par l'écosystème de la Data, le Cloud et le Machine Learning, j'ai une solide expertise dans la conception de pipelines de données robustes, l'automatisation de flux ETL et la valorisation des données pour l'aide à la décision. Je suis certifiée <strong>Microsoft Power BI Data Analyst</strong> et j'effectue actuellement mon stage de fin d'études chez <strong>AXA</strong> en tant qu'Analytics Engineer.</p>
-    <p>🎯 <strong>Je suis activement à la recherche d'un CDI ou CDD en Data Engineering / Analytics Engineering / Business Analyst à partir d'Octobre 2026.</strong></p>
+        <h2>🚀 À propos de moi</h2>
+        <p>Je suis une <strong>Ingénieure en Informatique</strong> et <strong>Data / Analytics Engineer</strong>, actuellement en Master 2 (M2) Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord, et diplômée de l'ENSIAS en Ingénierie Digitale pour la Finance.</p>
+        <p>Passionnée par l'écosystème de la Data, le Cloud et le Machine Learning, j'ai une solide expertise dans la conception de pipelines de données robustes, l'automatisation de flux ETL et la valorisation des données pour l'aide à la décision. Je suis certifiée <strong>Microsoft Power BI Data Analyst</strong> et j'effectue actuellement mon stage de fin d'études chez <strong>AXA</strong> en tant qu'Analytics Engineer.</p>
+        <p>🎯 <strong>Je suis activement à la recherche d'un CDI ou CDD en Data Engineering / Analytics Engineering / Business Analyst à partir d'Octobre 2026.</strong></p>
+    </div>
 
     <hr>
 
