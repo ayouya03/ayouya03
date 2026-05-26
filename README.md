@@ -17,7 +17,7 @@ Passionnée par l'écosystème de la Data, le Cloud et le Machine Learning, j'ai
 * **Bases de données :** MongoDB, MySQL, BigQuery, PostgreSQL, SQL Server
 * **Business Intelligence & ETL :** Power BI (Certifiée), Looker, Tableau, Automated ETL, Data Warehouse
 * **DevOps & Cloud :** Docker, Git, GitHub, GitLab, Azure, Linux
-* **Méthodologies & Expertises :** Machine Learning, Statistiques, Finance de marché
+* **Méthodologies & Expertises :** Machine Learning, Statistiques et Probabilités Finance de marché
 
 ---
 
